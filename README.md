@@ -5,7 +5,7 @@
 This project goes through my process of analyzing 244 Super Bowl Adverisements from the 2000 - 2020 Super Bowls.
 
 ## The Data
-The dataset comes from (fivethirtyeight)[https://projects.fivethirtyeight.com/super-bowl-ads/]
+The dataset comes from [fivethirtyeight](https://projects.fivethirtyeight.com/super-bowl-ads/)
 
 ![sb5](https://user-images.githubusercontent.com/16946556/107553039-1a3f9c00-6b89-11eb-8760-833edc568b81.png)
 

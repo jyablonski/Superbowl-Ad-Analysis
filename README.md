@@ -2,12 +2,12 @@
 
 ## Introduction
   
-This project goes through my process of analyzing 244 Super Bowl Adverisements from the 2000 - 2020 Super Bowls.  Super Bowl Ads are the pinnacle of advertising, in 2021 the price of a 30-second time slot was $5.5 million, and most of these companies don't just buy 1.  I was interested in exploring an advertising dataset such as this one and seeing what kind of insights and takeaways I could get from exploring the data.
+This project goes through my process of analyzing 244 Super Bowl Adverisements from the 2000 - 2020 Super Bowls.  Super Bowl Ads are the pinnacle of advertising and marketing, these companies put everything into these ads in hopes of generating interest & awareness for their brand.  In 2021 the price of a 30-second time slot was $5.5 million, and most of these companies don't just buy 1.  I was interested in exploring an advertising dataset such as this one and seeing what kind of insights and takeaways I could get from exploring the data.
 
 ## The Data
 The dataset comes from [fivethirtyeight](https://projects.fivethirtyeight.com/super-bowl-ads/), where they analyzed 244 ads from the 10 most popular Advertisers for the Super Bowl (including the NFL).  Fivethirtyeight created characteristics of every ad, like if it was funny or if it included a celebrity, and opted to share their dataset along with their own findings.
 
-This dataset is obviously biased, it doesn't include every advertisement that's been shown, and it only includes the same companies year after year.  However, I still think there are trends and insights available in the data that are meaningful enough to help tell a story despite the bias.  
+This dataset is obviously biased.  It doesn't include every advertisement that's been shown, and it only includes the same companies year after year.  However, I still think there are trends and insights available in the data that are meaningful enough to learn something from despite the bias.  Below are the variables provided in the dataset.
 
 Categorical Variables      | Continuous Variables    
 -------------------------- | ---------------------- 
@@ -20,6 +20,7 @@ Show Product Quickly          |
 Patriotic
 Celebrity
 
+## Exploratory Data Analysis
 
 ![sb5](https://user-images.githubusercontent.com/16946556/107553039-1a3f9c00-6b89-11eb-8760-833edc568b81.png)
 
@@ -36,3 +37,4 @@ Celebrity
 ![sb6](https://user-images.githubusercontent.com/16946556/107553051-1c095f80-6b89-11eb-8bb7-e3c585c65398.png)
 
 ## Insights
+Advertising in the Super Bowl must be working for most of these companies, because it comes at a steep price.  

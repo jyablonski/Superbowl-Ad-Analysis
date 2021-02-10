@@ -32,6 +32,8 @@ I used a package called ExPanDaR, which goes through an automated exploratory ph
 
 ![sb6](https://user-images.githubusercontent.com/16946556/107553051-1c095f80-6b89-11eb-8bb7-e3c585c65398.png)
 
+This was another graph provided by ExPanDaR.  It's showing how certain companies might use some characteristics more than others, like Doritos using humor in the vast majority of their advertisements.  Bud Light is up there as well, whereas a direct competitor in Budweiser is considerably less likely to use humor.  You can look at these graphs for all the characteristics and compare them across companies, which might be useful if you worked for a similar kind of company and wanted to analyze the kinds of characteristics they use in their advertising.  
+
 ![sb7](https://user-images.githubusercontent.com/16946556/107553050-1c095f80-6b89-11eb-9e5f-3e7871f123b9.png)
 
 ![sb3](https://user-images.githubusercontent.com/16946556/107553043-1ad83280-6b89-11eb-9d29-a68bc57cb198.png)
@@ -48,4 +50,4 @@ The price for a 30-sec slot was increasing every year since 2010, but went down 
 
 
 ## Insights
-Advertising in the Super Bowl must be working for most of these companies, because it comes at a steep price.  
+

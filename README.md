@@ -9,6 +9,18 @@ The dataset comes from [fivethirtyeight](https://projects.fivethirtyeight.com/su
 
 This dataset is obviously biased, it doesn't include every advertisement that's been shown, and it only includes the same companies year after year.  However, I still think there are trends and insights available in the data that are meaningful enough to help tell a story despite the bias.  
 
+Categorical Variables      | Continuous Variables    
+-------------------------- | ---------------------- 
+Brand | Year  
+Funny               | 
+Animals           | 
+Use Sex         | 
+Danger  | 
+Show Product Quickly          | 
+Patriotic
+Celebrity
+
+
 ![sb5](https://user-images.githubusercontent.com/16946556/107553039-1a3f9c00-6b89-11eb-8760-833edc568b81.png)
 
 ![sb4](https://user-images.githubusercontent.com/16946556/107553041-1ad83280-6b89-11eb-9880-57e24e1db415.png)

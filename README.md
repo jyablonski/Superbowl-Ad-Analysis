@@ -14,7 +14,3 @@ dsfssf
 ![sb7](https://user-images.githubusercontent.com/16946556/107553050-1c095f80-6b89-11eb-9e5f-3e7871f123b9.png)
 
 ![sb6](https://user-images.githubusercontent.com/16946556/107553051-1c095f80-6b89-11eb-8bb7-e3c585c65398.png)
-
-![sb1](https://user-images.githubusercontent.com/16946556/107553111-33484d00-6b89-11eb-91c9-8f0a2b5fbd69.png)
-
-![sb6](https://user-images.githubusercontent.com/16946556/107553124-38a59780-6b89-11eb-94a8-36d284cf083f.png)

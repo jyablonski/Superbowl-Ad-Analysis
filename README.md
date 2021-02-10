@@ -1,5 +1,11 @@
-# Superbowl-Ad-Analysis
-dsfssf
+# Super Bowl Ad Analysis
+
+## Introduction
+  
+This project goes through my process of analyzing 244 Super Bowl Adverisements from the 2000 - 2020 Super Bowls.
+
+## The Data
+The dataset comes from (fivethirtyeight)[https://projects.fivethirtyeight.com/super-bowl-ads/]
 
 ![sb5](https://user-images.githubusercontent.com/16946556/107553039-1a3f9c00-6b89-11eb-8760-833edc568b81.png)
 
@@ -14,3 +20,5 @@ dsfssf
 ![sb7](https://user-images.githubusercontent.com/16946556/107553050-1c095f80-6b89-11eb-9e5f-3e7871f123b9.png)
 
 ![sb6](https://user-images.githubusercontent.com/16946556/107553051-1c095f80-6b89-11eb-8bb7-e3c585c65398.png)
+
+## Insights

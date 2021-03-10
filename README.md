@@ -60,5 +60,5 @@ The price for a 30-sec slot was increasing every year since 2010, but went sligh
 ![sb_plot2](https://user-images.githubusercontent.com/16946556/110709113-9214dc80-81b0-11eb-8dc7-d0e819398fb2.png)
 
 
-
+Quickly showing the product in the commercial & also utilizing humor were by far the 2 most common techniques these companies opted to use in their advertising.  Some characteristics like using sex appeal were more common in the early 2000s, but are clearly dying off.  Certain companies like Pepsi chose to incorporate celebrities into the majority of their commercials, while there were also others that used Danger to captivate the audience and keep their attention.  Commercials are diverse!  Companies have different views on how to conduct them, what they want out of them, are they just going for brand reach & awareness or are they trying to push you more into actively buying their product.  Definitely an interseting project to learn from, especially if you work for a competitor to one of these companies and you learned a thing or two about how they operate.
 

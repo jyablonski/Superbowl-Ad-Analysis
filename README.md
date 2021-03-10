@@ -2,12 +2,12 @@
 
 ## Introduction
   
-This project goes through my process of analyzing 244 Super Bowl Adverisements from the 2000 - 2020 Super Bowls.  Super Bowl Ads are the pinnacle of advertising and marketing, these companies put everything into these ads in hopes of generating interest & awareness for their brand.  In 2021 the price of a 30-second time slot was $5.5 million, and most of these companies don't just buy 1.  I was interested in exploring an advertising dataset such as this one and seeing what kind of insights and takeaways I could get from exploring the data.
+This project goes through my process of analyzing 247 Super Bowl Adverisements from the 2000 - 2020 Super Bowls.  Super Bowl Ads are the pinnacle of advertising and marketing, with the price of a 30-second time slot being $5.5 million in this past Year's Super Bowl.  Few companies have the budget to be able to afford a price tag like that, and you have to imagine the amount of prep that goes into creating a Commercial for that kind of magnitude.  I was interested in exploring an advertising dataset such as this one and seeing what kind of insights and takeaways I could get from exploring the data in further depth.
 
 ## The Data
-The dataset comes from [fivethirtyeight](https://projects.fivethirtyeight.com/super-bowl-ads/), where they analyzed 244 ads from the 10 most popular Advertisers for the Super Bowl (including the NFL).  Fivethirtyeight created characteristics of every ad, like if it was funny or if it included a celebrity, and opted to share their dataset along with their own findings.
+The dataset originally from [fivethirtyeight](https://projects.fivethirtyeight.com/super-bowl-ads/), and later became part of a [Tidytuesday Project](https://github.com/rfordatascience/tidytuesday) for users of the R Community.  Fivethirtyeight analyzed 247 ads from the 9 most popular Advertisers for the Super Bowl, and created characteristics of every ad such as if it was funny or if it included a celebrity, and Tidytuesday utilized Youtube's API to add various Youtube-specific data metrics along to the dataset.
 
-This dataset is obviously biased.  It doesn't include every advertisement that's been shown, and it only includes the same companies year after year.  However, I still think there are trends and insights available in the data that are meaningful enough to learn something from despite the bias.  Below are the variables provided in the dataset.
+This dataset is obviously biased.  It doesn't include every advertisement that's been shown in the included Super Bowls, and it only includes the same companies year after year.  However, I still think there are trends and insights available in the data that are meaningful enough to learn something from despite the bias.  Below are the variables provided in the dataset.
 
 Categorical Variables      | Continuous Variables    
 -------------------------- | ---------------------- 

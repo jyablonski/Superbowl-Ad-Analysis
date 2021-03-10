@@ -46,14 +46,14 @@ The price for a 30-sec slot was increasing every year since 2010, but went down 
 
 ## Insights
 
-![sb_plot7](https://user-images.githubusercontent.com/16946556/110707589-60027b00-81ae-11eb-9e34-af484b6f0d73.png)
-![sb_plot6](https://user-images.githubusercontent.com/16946556/110707591-609b1180-81ae-11eb-9ca6-ed17ce05e643.png)
-![sb_plot5](https://user-images.githubusercontent.com/16946556/110707596-609b1180-81ae-11eb-817b-6da8c2002387.png)
-![sb_plot1](https://user-images.githubusercontent.com/16946556/110707597-6133a800-81ae-11eb-994d-dd9507a8fa91.png)
-![sb_plot4](https://user-images.githubusercontent.com/16946556/110707598-6133a800-81ae-11eb-9b67-010ae69cfc58.png)
-![sb_plot3](https://user-images.githubusercontent.com/16946556/110707600-6133a800-81ae-11eb-985a-6ac3aa7ecb1b.png)
-![sb_plot2](https://user-images.githubusercontent.com/16946556/110707601-61cc3e80-81ae-11eb-87e2-b8b2af803bce.png)
-![sb_plot9](https://user-images.githubusercontent.com/16946556/110707602-61cc3e80-81ae-11eb-8e49-dfeecb187007.png)
-![sb_plot8](https://user-images.githubusercontent.com/16946556/110707603-61cc3e80-81ae-11eb-9f8f-74c85c6344b7.png)
 
+![sb_plot6](https://user-images.githubusercontent.com/16946556/110707969-e74fee80-81ae-11eb-8bdf-ba6dae8d6d6f.png)
+![sb_plot5](https://user-images.githubusercontent.com/16946556/110707973-e7e88500-81ae-11eb-934b-fdde893960bb.png)
+![sb_plot3](https://user-images.githubusercontent.com/16946556/110707974-e7e88500-81ae-11eb-8016-21c46014f54f.png)
+![sb_plot2](https://user-images.githubusercontent.com/16946556/110707975-e8811b80-81ae-11eb-9dbd-27e2df0e13aa.png)
+![sb_plot4](https://user-images.githubusercontent.com/16946556/110707977-e8811b80-81ae-11eb-929f-bab2747a7ee1.png)
+![sb_plot9](https://user-images.githubusercontent.com/16946556/110707978-e8811b80-81ae-11eb-9a99-c7304b9a2ecc.png)
+![sb_plot1](https://user-images.githubusercontent.com/16946556/110707979-e8811b80-81ae-11eb-857f-e1f37eb76cad.png)
+![sb_plot8](https://user-images.githubusercontent.com/16946556/110707980-e919b200-81ae-11eb-961c-2f3a35b745e3.png)
+![sb_plot7](https://user-images.githubusercontent.com/16946556/110707981-e919b200-81ae-11eb-84a8-a72fcc3bb3d4.png)
 

@@ -52,7 +52,7 @@ The price for a 30-sec slot was increasing every year since 2010, but went down 
 ![sb_plot3](https://user-images.githubusercontent.com/16946556/110707974-e7e88500-81ae-11eb-8016-21c46014f54f.png)
 ![sb_plot2](https://user-images.githubusercontent.com/16946556/110707975-e8811b80-81ae-11eb-9dbd-27e2df0e13aa.png)
 ![sb_plot4](https://user-images.githubusercontent.com/16946556/110707977-e8811b80-81ae-11eb-929f-bab2747a7ee1.png)
-![sb_plot9](https://user-images.githubusercontent.com/16946556/110707978-e8811b80-81ae-11eb-9a99-c7304b9a2ecc.png)
+![sb_plot9](https://user-images.githubusercontent.com/16946556/110708079-0cdcf800-81af-11eb-92eb-53d008f77024.png)
 ![sb_plot1](https://user-images.githubusercontent.com/16946556/110707979-e8811b80-81ae-11eb-857f-e1f37eb76cad.png)
 ![sb_plot8](https://user-images.githubusercontent.com/16946556/110707980-e919b200-81ae-11eb-961c-2f3a35b745e3.png)
 ![sb_plot7](https://user-images.githubusercontent.com/16946556/110707981-e919b200-81ae-11eb-84a8-a72fcc3bb3d4.png)

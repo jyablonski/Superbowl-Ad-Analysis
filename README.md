@@ -12,9 +12,9 @@ This dataset is obviously biased.  It doesn't include every advertisement that's
 Categorical Variables      | Continuous Variables    
 -------------------------- | ---------------------- 
 Brand | Year  
-Funny               | 
-Animals           | 
-Use Sex         | 
+Funny               | Youtube Views
+Animals           | Youtube Likes
+Use Sex         | Youtube Dislikes
 Danger  | 
 Show Product Quickly          | 
 Patriotic

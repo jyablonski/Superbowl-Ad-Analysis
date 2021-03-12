@@ -51,17 +51,13 @@ I wanted to get a better idea of how the pricing for these time slots has change
 
 The price for a 30-sec slot was increasing every year since 2010, but went slightly down for the 2021 Super Bowl due to the effects of the pandemic.
 
-
-
-## Insights
-
-
 ![sb_plot5](https://user-images.githubusercontent.com/16946556/110707973-e7e88500-81ae-11eb-934b-fdde893960bb.png)
 ![sb_plot2](https://user-images.githubusercontent.com/16946556/110709113-9214dc80-81b0-11eb-8dc7-d0e819398fb2.png)
 
 
 Quickly showing the product in the commercial & also utilizing humor were by far the 2 most common techniques these companies opted to use in their advertising.  Some characteristics like using sex appeal were more common in the early 2000s, but are clearly dying off.  
 
+## Insights & Conclusions
 
 1. Certain companies like Pepsi chose to incorporate celebrities into the majority of their commercials, while there were also others that used Danger to captivate the audience and keep their attention.  
    * bby

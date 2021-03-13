@@ -54,7 +54,7 @@ The most interesting graph comes from looking at the characteristic distribution
   * You can see how using sex appeal was very popular in the early 2000s, but has recently fallen completely off as an advertising strategy.  
   * Recently, we're seeing a lot more use of celebrities in commercials.
 
-![sb_plot5](https://user-images.githubusercontent.com/16946556/110707973-e7e88500-81ae-11eb-934b-fdde893960bb.png)
+![sb_plot5](https://user-images.githubusercontent.com/16946556/111010781-5e6eb980-834c-11eb-9db3-8c2a05bc7f7f.png)
 
 
 I wanted to get a better idea of how the pricing for these time slots has changed over the past years.  superbowl-ads.com offered a simple dataset dating back to 1968.  

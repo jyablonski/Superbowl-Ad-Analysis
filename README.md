@@ -72,14 +72,14 @@ The data set came with the Youtube descriptions which you could potentially perf
 ## Insights & Conclusions
 
 1. Commercials are diverse!  Companies have different views on how to conduct them, what they want out of them, and whether they are just going for brand reach & awareness or are they trying to push viewers into actively buying their product.  
-  * Certain companies like Pepsi chose to incorporate celebrities into the majority of their commercials, while there were also others that used Danger & suspense to captivate the audience and keep their attention.  
-  * Utilizing humor & showing the product quickly were by far the 2 most commonly used variables in these commercials.
+    * Certain companies like Pepsi chose to incorporate celebrities into the majority of their commercials, while there were also others that used Danger & suspense to captivate the audience and keep their attention.  
+    * Utilizing humor & showing the product quickly were by far the 2 most commonly used variables in these commercials.
 
 2. It was interesting to see the use of sexual appeal get phased out in more recent years.  It was incredibly popular in the early 2000s, but wasn't utilized a single time in the 2020 Super Bowl.
 
 3. The Intra-industry competition is intense!  Budlight vs Budweiser, Pepsi vs Coca Cola, automotive companies, phone companies, everybody wants in on the Super Bowl and getting their product out there.
-  * If these companies choose not to advertise during the Super Bowl, that just means a bigger piece of the pie for their competitors.
-  * This 2019 Budlight commercial which had a 64% Dislike rate included Bud Light calling out Coors Light for being made of inferior ingredients, and led to a [multi-year lawsuit](https://www.nytimes.com/2019/03/21/business/miller-lite-bud-light-lawsuit.html)
+    * If these companies choose not to advertise during the Super Bowl, that just means a bigger piece of the pie for their competitors.
+    * This 2019 Budlight commercial which had a 64% Dislike rate included Bud Light calling out Coors Light for being made of inferior ingredients, and led to a [multi-year lawsuit](https://www.nytimes.com/2019/03/21/business/miller-lite-bud-light-lawsuit.html)
 
 
 This was a fascinating project to work on and learn from.  One thing I want to try in the future is analyzing trends on Social Media such as Twitter to see the live discussion in real time and see which commercials stir the largest reactions from the average fan.  

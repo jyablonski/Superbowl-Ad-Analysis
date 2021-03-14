@@ -7,8 +7,6 @@ library(tidytuesdayR)
 library(tidytext)
 library(reshape2)
 
-# https://www.businessinsider.com/super-bowl-lv-bud-light-ads-budweiser-decision-not-to-2021-2
-
 # custom theme
 theme_jacob <- function(..., base_size = 12) {
   theme(panel.grid.minor = element_blank(),
@@ -35,14 +33,18 @@ theme_jacob <- function(..., base_size = 12) {
 
 theme_set(theme_jacob())
 
+# loading in data ----
 df <- read_csv('https://raw.githubusercontent.com/fivethirtyeight/superbowl-ads/main/superbowl-ads.csv')
 ad_prices <- read_csv('superbowl_adprices.csv')
 tt <- tt_load('2021-03-02')
 df <- tt$youtube
-
+ 
+# skimming data
 skim(df)
 exPanD(df)
 
+
+# My analysis ----
 df_brands <- df %>%
   group_by(brand) %>%
   count() %>%

@@ -20,6 +20,8 @@ Show Product Quickly          |
 Patriotic
 Celebrity
 
+I Utilized R to work on this project, along with the dplyr, ggplot2, tidytext, and skimR packages.
+
 ## Exploratory Data Analysis
 
 I started by looking at how many commercials each of these companies have produced for the Super Bowl in the last 20 years.  You can see clear trends of the kinds of companies who are most likely to advertise for the biggest event of the year. 
@@ -64,6 +66,8 @@ The biggest increase in pricing came around 2000, which apparently was the resul
 
 ![sb_plot7](https://user-images.githubusercontent.com/16946556/110707981-e919b200-81ae-11eb-84a8-a72fcc3bb3d4.png)
 
+
+The data set came with the Youtube descriptions which you could potentially perform NLP & sentiment analysis on, but I didn't see much value in that.  Youtube descriptions vary wildly, and often include a lot of copyright infringement details or links to other social media sites & campaigns that would be hard to filter out of the actual text analysis.
 
 ## Insights & Conclusions
 
